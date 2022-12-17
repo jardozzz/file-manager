@@ -1,0 +1,20 @@
+{"type": "module",
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "school task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jardozzz/file-manager.git"
+  },
+  "author": "Jardozzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jardozzz/file-manager/issues"
+  },
+  "homepage": "https://github.com/jardozzz/file-manager#readme"
+}
